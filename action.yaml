@@ -1,4 +1,4 @@
-name: ghcr-retag
+name: ghcr-retag-v2
 author: airbone95 <airbone95@users.noreply.github.com>
 description: retag docker images in ghcr without pulling
 branding:
